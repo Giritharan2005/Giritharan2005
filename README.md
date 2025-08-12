@@ -19,7 +19,7 @@ Turning data into meaningful insights that drive smart decisions by using**Pytho
 - 📊 Skilled in *Python, SQL, Power BI,Excel, Pandas, Flask*  
 - 🌐 Portfolio: https://giri-portfolio-24.web.app/
 - 📫 Email: **giritharand3@gmail.com**
-
-
+- 
 <!-- Wave Animation -->
-<img width="3000" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+<img width="3000" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
+
