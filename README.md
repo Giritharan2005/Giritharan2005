@@ -12,8 +12,14 @@ Turning data into meaningful insights that drive smart decisions by using**Pytho
 
 
 
+
+
 - 🎓 *B.E. Artificial Intelligence*, MKCE (2023–2027), CGPA: 7.74 
 - 📈 *Intern @ Micro IT*  
 - 📊 Skilled in *Python, SQL, Power BI,Excel, Pandas, Flask*  
 - 🌐 Portfolio: https://giri-portfolio-24.web.app/
 - 📫 Email: **giritharand3@gmail.com**
+
+
+<!-- Wave Animation -->
+<img width="3000" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
